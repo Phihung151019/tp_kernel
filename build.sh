@@ -1,7 +1,5 @@
 #!/bin/bash
 
-./clean.sh
-
 echo -e "\n[INFO]: BUILD STARTED..!\n"
 
 #init submodules
